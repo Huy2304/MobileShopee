@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace MobileShopee
 {
-    public partial class Form1 : Form
+    public partial class ConformDetails : Form
     {
-        public Form1()
+        public ConformDetails()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace MobileShopee
 {
-    public partial class Form1 : Form
+    public partial class UserHomePage : Form
     {
-        public Form1()
+        public UserHomePage()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
