@@ -1,4 +1,4 @@
-﻿namespace CuoiKy
+﻿namespace MobileShopee
 {
     partial class Admin_HomePage
     {

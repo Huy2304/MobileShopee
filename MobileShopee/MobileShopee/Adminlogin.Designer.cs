@@ -1,4 +1,4 @@
-﻿namespace CuoiKy
+﻿namespace MobileShopee
 {
     partial class Adminlogin
     {
@@ -114,6 +114,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Adminlogin";
             this.Text = "Adminlogin";
+            this.Load += new System.EventHandler(this.Adminlogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CuoiKy
+namespace MobileShopee
 {
     public partial class Admin_HomePage : Form
     {

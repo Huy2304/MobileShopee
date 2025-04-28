@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CuoiKy
+namespace MobileShopee
 {
     public partial class Adminlogin : Form
     {
@@ -23,6 +23,11 @@ namespace CuoiKy
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Adminlogin_Load(object sender, EventArgs e)
         {
 
         }
