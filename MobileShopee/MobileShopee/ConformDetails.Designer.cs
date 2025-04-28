@@ -1,4 +1,4 @@
-﻿namespace MobileShopee
+﻿namespace CuoiKy
 {
     partial class ConformDetails
     {
