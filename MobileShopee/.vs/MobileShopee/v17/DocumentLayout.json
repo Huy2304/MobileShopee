@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\features\\empolyees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|c:\\users\\os\\git\\quangnotfun\\mobileshopee\\mobileshopee\\mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|C:\\Users\\OS\\git\\QUANGNOTFUN\\MobileShopee\\MobileShopee\\mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "MobileShopee\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:16:43.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T07:16:43.577Z"
             }
           ]
         },
