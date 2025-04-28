@@ -22,3 +22,4 @@ D:\C#_ Project\xdhttt\MobileShopee\MobileShopee\obj\Debug\MobileShopee.csproj.Ge
 D:\C#_ Project\xdhttt\MobileShopee\MobileShopee\obj\Debug\MobileShopee.csproj.CoreCompileInputs.cache
 D:\C#_ Project\xdhttt\MobileShopee\MobileShopee\obj\Debug\MobileShopee.exe
 D:\C#_ Project\xdhttt\MobileShopee\MobileShopee\obj\Debug\MobileShopee.pdb
+D:\C#_ Project\xdhttt\MobileShopee\MobileShopee\obj\Debug\MobileShopee.User_HomePage.resources

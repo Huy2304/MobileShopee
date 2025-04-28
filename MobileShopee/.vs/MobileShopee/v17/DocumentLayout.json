@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\C#_ Project\\xdhttt\\MobileShopee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\user_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\user_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\user_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\user_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\user_homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\user_homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\admin_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\admin_homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|d:\\c#_ project\\xdhttt\\mobileshopee\\mobileshopee\\conformdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\conformdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +54,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_HomePage.cs",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\User_HomePage.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.cs*",
+              "RelativeToolTip": "MobileShopee\\User_HomePage.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:04:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User_HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\User_HomePage.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.cs [Design]*",
+              "RelativeToolTip": "MobileShopee\\User_HomePage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:56:34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_HomePage.Designer.cs",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\User_HomePage.Designer.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\User_HomePage.Designer.cs*",
+              "RelativeToolTip": "MobileShopee\\User_HomePage.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:58:41.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Admin_HomePage.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\Admin_HomePage.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Admin_HomePage.cs [Design]*",
+              "RelativeToolTip": "MobileShopee\\Admin_HomePage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:58:55.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConformDetails.cs [Design]",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\ConformDetails.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\ConformDetails.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\ConformDetails.cs [Design]",
+              "RelativeToolTip": "MobileShopee\\ConformDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:13:22.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Form1.cs",
               "RelativeDocumentMoniker": "MobileShopee\\Form1.cs",
               "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Form1.cs [Design]",
               "RelativeToolTip": "MobileShopee\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:32:54.015Z",
+              "WhenOpened": "2025-04-28T09:13:17.074Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "MobileShopee\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "MobileShopee\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:32:48.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Program.cs",
               "RelativeDocumentMoniker": "MobileShopee\\Program.cs",
               "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Program.cs",
               "RelativeToolTip": "MobileShopee\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:16:43.577Z",
+              "WhenOpened": "2025-04-28T07:41:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Form1.cs",
+              "RelativeDocumentMoniker": "MobileShopee\\Form1.cs",
+              "ToolTip": "D:\\C#_ Project\\xdhttt\\MobileShopee\\MobileShopee\\Form1.cs",
+              "RelativeToolTip": "MobileShopee\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:33:40.511Z",
               "EditorCaption": ""
             }
           ]
