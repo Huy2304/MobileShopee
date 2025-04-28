@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -46,39 +46,39 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Adminlogin.cs">
+    <Compile Include="features\admin\Adminlogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Adminlogin.Designer.cs">
+    <Compile Include="features\admin\Adminlogin.Designer.cs">
       <DependentUpon>Adminlogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Admin_HomePage.cs">
+    <Compile Include="features\admin\Admin_HomePage.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Admin_HomePage.Designer.cs">
+    <Compile Include="features\admin\Admin_HomePage.Designer.cs">
       <DependentUpon>Admin_HomePage.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConformDetails.cs">
+    <Compile Include="features\empolyees\ConformDetails.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConformDetails.Designer.cs">
+    <Compile Include="features\empolyees\ConformDetails.Designer.cs">
       <DependentUpon>ConformDetails.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="features\empolyees\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="features\empolyees\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Adminlogin.resx">
+    <EmbeddedResource Include="features\admin\Adminlogin.resx">
       <DependentUpon>Adminlogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Admin_HomePage.resx">
+    <EmbeddedResource Include="features\admin\Admin_HomePage.resx">
       <DependentUpon>Admin_HomePage.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConformDetails.resx">
+    <EmbeddedResource Include="features\empolyees\ConformDetails.resx">
       <DependentUpon>ConformDetails.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

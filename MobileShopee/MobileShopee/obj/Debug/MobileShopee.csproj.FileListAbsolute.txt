@@ -10,3 +10,15 @@ C:\Users\OS\Source\Repos\MobileShopee\MobileShopee\MobileShopee\obj\Debug\Mobile
 C:\Users\OS\Source\Repos\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.Adminlogin.resources
 C:\Users\OS\Source\Repos\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.Admin_HomePage.resources
 C:\Users\OS\Source\Repos\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.ConformDetails.resources
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\bin\Debug\MobileShopee.exe.config
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\bin\Debug\MobileShopee.exe
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\bin\Debug\MobileShopee.pdb
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.csproj.AssemblyReference.cache
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.Adminlogin.resources
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.Admin_HomePage.resources
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.ConformDetails.resources
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.Properties.Resources.resources
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.csproj.GenerateResource.cache
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.csproj.CoreCompileInputs.cache
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.exe
+C:\Users\OS\git\QUANGNOTFUN\MobileShopee\MobileShopee\MobileShopee\obj\Debug\MobileShopee.pdb
