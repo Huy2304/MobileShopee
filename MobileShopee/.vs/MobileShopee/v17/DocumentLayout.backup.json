@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\OS\\git\\QUANGNOTFUN\\MobileShopee\\MobileShopee\\",
+  "WorkspaceRootPath": "C:\\Users\\OS\\source\\repos\\MobileShopee\\MobileShopee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|c:\\users\\os\\git\\quangnotfun\\mobileshopee\\mobileshopee\\mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|c:\\users\\os\\source\\repos\\mobileshopee\\mobileshopee\\mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13AB935A-2642-4169-9C36-266B0D1CC1C2}|MobileShopee\\MobileShopee.csproj|solutionrelative:mobileshopee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,42 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OS\\git\\QUANGNOTFUN\\MobileShopee\\MobileShopee\\MobileShopee\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\source\\repos\\MobileShopee\\MobileShopee\\MobileShopee\\Program.cs",
               "RelativeDocumentMoniker": "MobileShopee\\Program.cs",
-              "ToolTip": "C:\\Users\\OS\\git\\QUANGNOTFUN\\MobileShopee\\MobileShopee\\MobileShopee\\Program.cs",
+              "ToolTip": "C:\\Users\\OS\\source\\repos\\MobileShopee\\MobileShopee\\MobileShopee\\Program.cs",
               "RelativeToolTip": "MobileShopee\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:16:43.577Z",
+              "WhenOpened": "2025-04-29T07:16:24.954Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1553,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
